@@ -7,4 +7,4 @@
 </p>
 
 
-Readme stats made using https://github.com/anuraghazra/github-readme-stats.
+Readme displayed made using https://github.com/anuraghazra/github-readme-stats.
