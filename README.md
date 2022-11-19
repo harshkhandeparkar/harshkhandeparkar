@@ -6,7 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKhandeparkar&layout=compact&theme=dark" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://gpvc.arturio.dev/harshkhandeparkar" />
+</p>
 
 Readme stats displayed using https://github.com/anuraghazra/github-readme-stats.
-
-![Profile views](https://gpvc.arturio.dev/harshkhandeparkar)
