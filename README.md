@@ -8,3 +8,5 @@
 
 
 Readme stats displayed using https://github.com/anuraghazra/github-readme-stats.
+
+![Profile views](https://gpvc.arturio.dev/harshkhandeparkar)
