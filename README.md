@@ -10,4 +10,7 @@
   <img align="center" src="https://gpvc.arturio.dev/harshkhandeparkar" />
 </p>
 
+****
+<p align="center">
 Readme stats displayed using https://github.com/anuraghazra/github-readme-stats.
+</p>
