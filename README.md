@@ -14,3 +14,6 @@
 <p align="center">
 Readme stats displayed using https://github.com/anuraghazra/github-readme-stats.
 </p>
+<p align="center">
+Profile views displayed using https://github.com/arturssmirnovs/github-profile-views-counter.
+</p>
