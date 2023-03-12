@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKhandeparkar&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
   <img align="center" src="https://gpvc.arturio.dev/harshkhandeparkar" />
 </p>
 
